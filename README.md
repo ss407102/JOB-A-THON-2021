@@ -15,4 +15,4 @@ RandomForestRegressor
 
 # Features Used
 I used 3 Features from the given data (Store_id,Holiday,Discount ) and 8 new features t1,t2,t3,t4,t5 which are last 5 days sales and avg30,avg20,avg10 average of last 30,20,10 days sales respectively .<br><br>
-<b> By using this approach I got score of 207.69 (MSLE * 1000) and overall 5th rank in this competition.</b> 
+
