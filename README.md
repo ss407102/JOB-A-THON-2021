@@ -14,6 +14,6 @@ The evaluation metric for this competition is MSLE * 1000
 RandomForestRegressor
 
 # Features Used
-<b> Score - 207.6915171682                             Private Leaderboard Rank - 5</b> <br>
+<b>                              Private Leaderboard Rank - 5</b> <br>
 I used 3 Features from the given data (Store_id,Holiday,Discount ) and 8 new features t1,t2,t3,t4,t5 which are last 5 days sales and avg30,avg20,avg10 average of last 30,20,10 days sales respectively .<br><br>
 
